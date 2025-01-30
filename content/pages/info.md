@@ -132,6 +132,9 @@ sections:
       - type: Label
         label: 'HTML, CSS'
         url: ''
+      - type: Label
+        label: C#
+        url: ''
   - type: DividerSection
     styles:
       self:
