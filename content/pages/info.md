@@ -129,6 +129,9 @@ sections:
         label: Netlify
       - type: Label
         label: C++
+      - type: Label
+        label: 'HTML, CSS'
+        url: ''
   - type: DividerSection
     styles:
       self:
