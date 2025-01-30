@@ -135,6 +135,9 @@ sections:
       - type: Label
         label: C#
         url: ''
+      - type: Label
+        label: Python
+        url: ''
   - type: DividerSection
     styles:
       self:
