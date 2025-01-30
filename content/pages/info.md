@@ -65,7 +65,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/Laraa31'
         styles:
           self:
             textAlign: left
