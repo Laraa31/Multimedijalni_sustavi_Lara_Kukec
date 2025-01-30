@@ -156,16 +156,4 @@ sections:
     colors: colors-f
     text: |
       [lapemakukec@gmail.com](mailto:lapemakukec@gmail.com)
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
 ---
